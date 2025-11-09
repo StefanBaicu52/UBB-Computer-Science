@@ -1,0 +1,14 @@
+package repository;
+
+import exceptions.InterpreterException;
+import model.state.ProgramState;
+
+import java.io.IOException;
+
+public interface IRepository {
+    ProgramState getCurrentProgram();
+
+    void logPrgStateExec(ProgramState programState) throws InterpreterException, IOException;
+
+    String getLogFilePath();
+}
