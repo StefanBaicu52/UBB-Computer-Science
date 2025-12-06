@@ -1,0 +1,3 @@
+20,stefan
+40,ana
+25,andrei

@@ -1,0 +1,2 @@
+Please type here the value of n : 6
+Number of bases for Z2^6 over Z2 is: 20158709760

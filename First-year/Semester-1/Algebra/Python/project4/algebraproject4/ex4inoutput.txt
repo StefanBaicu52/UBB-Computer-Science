@@ -1,0 +1,7 @@
+Enter the dimension of subspace (k): 3
+Enter the dimension of the ambient space (n): 3
+The number of 3-dimensional subspaces is: 1
+A basis for each subspace:
+[(0, 0, 1), (0, 1, 0), (1, 0, 0)]
+
+Process finished with exit code 0

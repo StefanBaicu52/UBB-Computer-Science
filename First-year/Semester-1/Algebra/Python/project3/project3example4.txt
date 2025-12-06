@@ -1,0 +1,2 @@
+Please type here the value of n : 5
+Number of bases for Z2^5 over Z2 is: 9999360

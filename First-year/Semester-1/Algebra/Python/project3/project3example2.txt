@@ -1,0 +1,6 @@
+Please type here the value of n : 2
+Number of bases for Z2^2 over Z2 is: 6
+The vectors of each basis are:
+(1, 0), (0, 1)
+(1, 0), (1, 1)
+(0, 1), (1, 1)

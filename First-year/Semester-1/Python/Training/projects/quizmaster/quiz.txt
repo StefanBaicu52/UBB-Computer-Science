@@ -1,0 +1,2 @@
+6;Name the first satellite:;Apollo;Sputnik;Zaria;Sputnik;medium
+4;Which country has the largest GDP?;Brazil;China;UK;China;medium

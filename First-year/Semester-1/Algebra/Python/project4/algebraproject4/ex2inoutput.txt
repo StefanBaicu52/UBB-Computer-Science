@@ -1,0 +1,7 @@
+Enter the dimension of subspace (k): 2 
+Enter the dimension of the ambient space (n): 2
+The number of 2-dimensional subspaces is: 1
+A basis for each subspace:
+[(0, 1), (1, 0)]
+
+Process finished with exit code 0
