@@ -1,0 +1,24 @@
+# ninja log v6
+2046	2205	1749018527966887021	week12	64b2950171b86f65
+3	503	7708337900745453	build.ninja	3d3217c78b000a9c
+26	32	1748934033917300581	clean	ad90e366ad70d77b
+9	469	1749018526378630000	week12_autogen/mocs_compilation.cpp	69b0abf76c7d7c8
+10	26	1748934033901262735	CMakeFiles/clean.additional	d278321256f03ac4
+9	469	1749018526378630000	week12_autogen/timestamp	69b0abf76c7d7c8
+32	2990	7708350456750962	week12_autogen/timestamp	942bd4e94cc07e7
+32	2990	7708350456750962	week12_autogen/mocs_compilation.cpp	942bd4e94cc07e7
+32	2990	7708350456750962	C:/Users/stefa/CLionProjects/week12/cmake-build-debug/week12_autogen/timestamp	942bd4e94cc07e7
+32	2990	7708350456750962	C:/Users/stefa/CLionProjects/week12/cmake-build-debug/week12_autogen/mocs_compilation.cpp	942bd4e94cc07e7
+3009	4098	7708350457860452	CMakeFiles/week12.dir/exceptions/exceptions.cpp.obj	2eea74e6a27e9d81
+3039	4424	7708350458160503	CMakeFiles/week12.dir/validation/validation.cpp.obj	9c3ba9b8b5ec6734
+3004	4460	7708350457805145	CMakeFiles/week12.dir/domain/dog.cpp.obj	553295b20e8d92d8
+3026	4505	7708350458030545	CMakeFiles/week12.dir/repository/AdoptionList.cpp.obj	6b156a79ca2e7270
+3020	4506	7708350457970471	CMakeFiles/week12.dir/repository/UserRepository.cpp.obj	2abd966296503807
+3014	4720	7708350457910644	CMakeFiles/week12.dir/repository/AdminRepository.cpp.obj	8a6e187609c42ac4
+4098	5484	7708350468757417	CMakeFiles/week12.dir/undo-redo/undo.cpp.obj	9ad9c1e06b3f1889
+3033	8097	7708350458100538	CMakeFiles/week12.dir/service/service.cpp.obj	2317e6d1f96ae6ef
+4424	8378	7708350472011218	CMakeFiles/week12.dir/undo-redo/AdoptionModel.cpp.obj	afea0492263345f8
+2999	8530	7708350457765143	CMakeFiles/week12.dir/main.cpp.obj	44717d748d13058e
+2995	8722	7708350457725117	CMakeFiles/week12.dir/week12_autogen/mocs_compilation.cpp.obj	e52aca864e7657bc
+3046	9354	7708350458230493	CMakeFiles/week12.dir/GUI/mainwindow.cpp.obj	94f62a2fece915db
+9354	9835	7708350521307338	week12.exe	b9d35269e4c51607

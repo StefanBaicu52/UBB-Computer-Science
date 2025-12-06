@@ -1,0 +1,3 @@
+C:/Users/stefa/CLionProjects/lab8(asgn6-7)/cmake-build-debug/CMakeFiles/untitled5.dir
+C:/Users/stefa/CLionProjects/lab8(asgn6-7)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/stefa/CLionProjects/lab8(asgn6-7)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

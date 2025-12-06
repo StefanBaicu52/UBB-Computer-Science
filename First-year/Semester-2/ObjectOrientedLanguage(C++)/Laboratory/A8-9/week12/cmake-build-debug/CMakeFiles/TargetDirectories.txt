@@ -1,0 +1,5 @@
+C:/Users/stefa/CLionProjects/week12/cmake-build-debug/CMakeFiles/week12.dir
+C:/Users/stefa/CLionProjects/week12/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/stefa/CLionProjects/week12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/stefa/CLionProjects/week12/cmake-build-debug/CMakeFiles/week12_autogen_timestamp_deps.dir
+C:/Users/stefa/CLionProjects/week12/cmake-build-debug/CMakeFiles/week12_autogen.dir

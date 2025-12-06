@@ -1,0 +1,12 @@
+# ninja log v6
+8	648	7640344291878929	build.ninja	c1e766e430742c5c
+106	366	7640337307547239	CMakeFiles/tema3.dir/dynamic_array.c.obj	70c30174cf52c15e
+116	356	7640337307660160	CMakeFiles/tema3.dir/repository.c.obj	ec0af015f02c142d
+69	403	7640345048157861	CMakeFiles/tema3.dir/offer.c.obj	8eff30fee6dc6d16
+43	409	7640345047893583	CMakeFiles/tema3.dir/repository.c.obj	ec0af015f02c142d
+64	310	7640349039726203	CMakeFiles/tema3.dir/repository.c.obj	ec0af015f02c142d
+53	317	7640349039622860	CMakeFiles/tema3.dir/main.c.obj	6beb2c2066ad33ba
+74	362	7640349039820098	CMakeFiles/tema3.dir/service.c.obj	a6142735fc35ab78
+363	623	7640349042707245	tema3.exe	5304f35386b25a9a
+59	263	7640350188424727	CMakeFiles/tema3.dir/main.c.obj	6beb2c2066ad33ba
+264	467	7640350190478178	tema3.exe	5304f35386b25a9a

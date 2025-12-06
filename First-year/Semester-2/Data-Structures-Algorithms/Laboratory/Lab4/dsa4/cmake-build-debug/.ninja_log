@@ -1,0 +1,23 @@
+# ninja log v6
+28	1026	7688734907894708	CMakeFiles/dsa4.dir/ShortTest.cpp.obj	93a90079db478402
+5	1226	7688734907665014	CMakeFiles/dsa4.dir/App.cpp.obj	2f3c2c55f84103d4
+40	1258	7688734908020708	CMakeFiles/dsa4.dir/SMIterator.cpp.obj	116e2f50b0edd13f
+18	1695	7688734907796648	CMakeFiles/dsa4.dir/ExtendedTest.cpp.obj	b2f8b7f7a6b08d0e
+52	1709	7688734908144376	CMakeFiles/dsa4.dir/SortedMap.cpp.obj	9d7b461034ee3e14
+27	737	7688737935793480	CMakeFiles/dsa4.dir/ShortTest.cpp.obj	93a90079db478402
+35	1140	7688737935886068	CMakeFiles/dsa4.dir/SMIterator.cpp.obj	116e2f50b0edd13f
+11	1173	7688737935630902	CMakeFiles/dsa4.dir/App.cpp.obj	2f3c2c55f84103d4
+44	1311	7688737935975904	CMakeFiles/dsa4.dir/SortedMap.cpp.obj	9d7b461034ee3e14
+19	1504	7688737935713840	CMakeFiles/dsa4.dir/ExtendedTest.cpp.obj	b2f8b7f7a6b08d0e
+1504	1711	7688737950561157	dsa4.exe	ebd9e0d1c48502a2
+211	1128	7689396799851011	CMakeFiles/dsa4.dir/ShortTest.cpp.obj	93a90079db478402
+171	1563	7689396799445608	CMakeFiles/dsa4.dir/App.cpp.obj	2f3c2c55f84103d4
+228	1592	7689396800010982	CMakeFiles/dsa4.dir/SMIterator.cpp.obj	116e2f50b0edd13f
+246	1751	7689396800191048	CMakeFiles/dsa4.dir/SortedMap.cpp.obj	9d7b461034ee3e14
+193	2008	7689396799665721	CMakeFiles/dsa4.dir/ExtendedTest.cpp.obj	b2f8b7f7a6b08d0e
+2008	2602	7689396817815574	dsa4.exe	ebd9e0d1c48502a2
+54	1184	7689397162113631	CMakeFiles/dsa4.dir/App.cpp.obj	2f3c2c55f84103d4
+1186	1449	7689397173427981	dsa4.exe	ebd9e0d1c48502a2
+72	1196	7689453387350829	CMakeFiles/dsa4.dir/SMIterator.cpp.obj	116e2f50b0edd13f
+94	1353	7689453387564642	CMakeFiles/dsa4.dir/SortedMap.cpp.obj	9d7b461034ee3e14
+1353	1593	7689453400150417	dsa4.exe	ebd9e0d1c48502a2

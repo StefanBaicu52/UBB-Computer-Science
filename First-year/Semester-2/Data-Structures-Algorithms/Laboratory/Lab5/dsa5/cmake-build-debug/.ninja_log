@@ -1,0 +1,11 @@
+# ninja log v6
+26	415	7701492430089722	CMakeFiles/untitled6.dir/SMIterator.cpp.obj	af9669f4f5e661d8
+35	419	7701492430197071	CMakeFiles/untitled6.dir/ShortTest.cpp.obj	dcc4a500e5dfe750
+2	1013	7701492429868103	CMakeFiles/untitled6.dir/App.cpp.obj	a4781ceaf35b58c4
+10	1486	7701492429868103	CMakeFiles/untitled6.dir/ExtendedTest.cpp.obj	f8d4cd0f66501e5a
+31	384	7701493928166330	CMakeFiles/untitled6.dir/SortedMap.cpp.obj	6054d31c899728cc
+41	387	7701493928263501	CMakeFiles/untitled6.dir/ShortTest.cpp.obj	dcc4a500e5dfe750
+31	323	7701494415671680	CMakeFiles/untitled6.dir/ShortTest.cpp.obj	dcc4a500e5dfe750
+325	605	7701494418609619	untitled6.exe	dea7e6e8603bdbc7
+59	434	7701552479636978	CMakeFiles/untitled6.dir/SortedMap.cpp.obj	6054d31c899728cc
+435	749	7701552483396499	untitled6.exe	dea7e6e8603bdbc7

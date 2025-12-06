@@ -1,0 +1,22 @@
+# ninja log v6
+266	1806	7695296414735077	CMakeFiles/week11.dir/validation/validation.cpp.obj	e89917ebcc2234d2
+1890	2094	1747419586796003755	week11	6429059801178944
+1921	2107	1746962459712149520	untitled5	dddd835838700755
+13	602	7700613326343584	build.ninja	abf73288f789d0b6
+8	532	1746962458311435000	untitled5_autogen/timestamp	cd924283b0fb135e
+38	255	7695296412451559	week11_autogen/mocs_compilation.cpp	81004d0c7cafdbe5
+8	532	1746962458311435000	untitled5_autogen/mocs_compilation.cpp	cd924283b0fb135e
+38	255	7695296412451559	week11_autogen/timestamp	81004d0c7cafdbe5
+38	255	7695296412451559	C:/Users/stefa/CLionProjects/week11/cmake-build-debug/week11_autogen/timestamp	81004d0c7cafdbe5
+38	255	7695296412451559	C:/Users/stefa/CLionProjects/week11/cmake-build-debug/week11_autogen/mocs_compilation.cpp	81004d0c7cafdbe5
+4485	6471	7695296007234679	CMakeFiles/week11.dir/exceptions/exceptions.cpp.obj	2db0db8eb7e0edac
+4455	6691	7695296006944609	CMakeFiles/week11.dir/repository/UserRepository.cpp.obj	f02c8b0558f60109
+256	1837	7695296414635073	CMakeFiles/week11.dir/domain/dog.cpp.obj	364587b284086ddc
+4493	6826	7695296007315004	CMakeFiles/week11.dir/repository/AdoptionList.cpp.obj	a71a647264bcb55b
+4447	6873	7695296006864664	CMakeFiles/week11.dir/repository/AdminRepository.cpp.obj	9647cee9fcb98a8d
+4463	7221	7695296007024692	CMakeFiles/week11.dir/service/service.cpp.obj	d6d3d3ad0d68d326
+4433	11593	7695296006724631	CMakeFiles/week11.dir/main.cpp.obj	9b01f87e32f5f07e
+4428	11835	7695296006674625	CMakeFiles/week11.dir/week11_autogen/mocs_compilation.cpp.obj	f7f471ef026377b0
+261	1888	7695296414685066	CMakeFiles/week11.dir/ui/ui.cpp.obj	5c325b680964bdb5
+272	5283	7695296414795049	CMakeFiles/week11.dir/GUI/GUI.cpp.obj	a0537469d3dd65d1
+5283	5695	7695296464892377	week11.exe	b864fda169e5c90f

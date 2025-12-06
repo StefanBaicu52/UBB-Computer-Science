@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+    <class>MainWindow</class>
+    <widget class="QMainWindow" name="MainWindow">
+        <property name="geometry">
+            <rect>
+                <x>0</x>
+                <y>0</y>
+                <width>800</width>
+                <height>600</height>
+            </rect>
+        </property>
+        <widget class="QWidget" name="centralwidget">
+            <layout class="QVBoxLayout" name="mainLayout">
+                <item>
+                    <widget class="QStackedWidget" name="stackedWidget">
+                        <!-- === MAIN MENU === -->
+                        <widget class="QWidget" name="pageMainMenu">
+                            <layout class="QVBoxLayout" name="mainMenuLayout">
+                                <item>
+                                    <widget class="QLabel" name="mainLabel">
+                                        <property name="text">
+                                            <string>CHOOSE USER OR SHUT DOWN SESSION:</string>
+                                        </property>
+                                        <property name="alignment">
+                                            <set>Qt::AlignCenter</set>
+                                        </property>
+                                    </widget>
+                                </item>
+                                <item><widget class="QPushButton" name="adminButton"><property name="text"><string>Admin</string></property></widget></item>
+                                <item><widget class="QPushButton" name="userButton"><property name="text"><string>User</string></property></widget></item>
+                                <item><widget class="QPushButton" name="exitButton"><property name="text"><string>Exit App</string></property></widget></item>
+                            </layout>
+                        </widget>
+
+                        <!-- === ADMIN PAGE === -->
+                        <widget class="QWidget" name="pageAdmin">
+                            <layout class="QVBoxLayout">
+                                <item>
+                                    <layout class="QHBoxLayout">
+                                        <item><widget class="QPushButton" name="addButton"><property name="text"><string>Add Dog</string></property></widget></item>
+                                        <item><widget class="QPushButton" name="deleteButton"><property name="text"><string>Remove Dog</string></property></widget></item>
+                                        <item><widget class="QPushButton" name="updateButton"><property name="text"><string>Update Dog</string></property></widget></item>
+                                        <item><widget class="QPushButton" name="viewButton"><property name="text"><string>View Dogs</string></property></widget></item>
+                                        <item><widget class="QPushButton" name="undoButton"><property name="text"><string>Undo</string></property></widget></item>
+                                        <item><widget class="QPushButton" name="redoButton"><property name="text"><string>Redo</string></property></widget></item>
+                                        <item><widget class="QPushButton" name="logoutAdminButton"><property name="text"><string>Back</string></property></widget></item>
+                                    </layout>
+                                </item>
+                                <item>
+                                    <widget class="QStackedWidget" name="adminForms">
+                                        <!-- === ADD FORM === -->
+                                        <widget class="QWidget" name="formAdd">
+                                            <layout class="QFormLayout">
+                                                <item row="0" column="0"><widget class="QLabel"><property name="text"><string>Name:</string></property></widget></item>
+                                                <item row="0" column="1"><widget class="QLineEdit" name="nameEdit"/></item>
+                                                <item row="1" column="0"><widget class="QLabel"><property name="text"><string>Breed:</string></property></widget></item>
+                                                <item row="1" column="1"><widget class="QLineEdit" name="breedEdit"/></item>
+                                                <item row="2" column="0"><widget class="QLabel"><property name="text"><string>Age:</string></property></widget></item>
+                                                <item row="2" column="1"><widget class="QLineEdit" name="ageEdit"/></item>
+                                                <item row="3" column="0"><widget class="QLabel"><property name="text"><string>Photo:</string></property></widget></item>
+                                                <item row="3" column="1"><widget class="QLineEdit" name="photoEdit"/></item>
+                                                <item row="4" column="1"><widget class="QPushButton" name="submitAddButton"><property name="text"><string>Submit Add</string></property></widget></item>
+                                            </layout>
+                                        </widget>
+
+                                        <!-- === DELETE FORM === -->
+                                        <widget class="QWidget" name="formDelete">
+                                            <layout class="QFormLayout">
+                                                <item row="0" column="0"><widget class="QLabel"><property name="text"><string>Photograph:</string></property></widget></item>
+                                                <item row="0" column="1"><widget class="QLineEdit" name="photoDeleteEdit"/></item>
+                                                <item row="1" column="1"><widget class="QPushButton" name="submitDeleteButton"><property name="text"><string>Submit Delete</string></property></widget></item>
+                                            </layout>
+                                        </widget>
+
+                                        <!-- === UPDATE FORM === -->
+                                        <widget class="QWidget" name="formUpdate">
+                                            <layout class="QFormLayout">
+                                                <item row="0" column="0"><widget class="QLabel"><property name="text"><string>Photograph:</string></property></widget></item>
+                                                <item row="0" column="1"><widget class="QLineEdit" name="photoUpdateEdit"/></item>
+                                                <item row="1" column="0"><widget class="QLabel"><property name="text"><string>Name:</string></property></widget></item>
+                                                <item row="1" column="1"><widget class="QLineEdit" name="nameUpdateEdit"/></item>
+                                                <item row="2" column="0"><widget class="QLabel"><property name="text"><string>Breed:</string></property></widget></item>
+                                                <item row="2" column="1"><widget class="QLineEdit" name="breedUpdateEdit"/></item>
+                                                <item row="3" column="0"><widget class="QLabel"><property name="text"><string>Age:</string></property></widget></item>
+                                                <item row="3" column="1"><widget class="QLineEdit" name="ageUpdateEdit"/></item>
+                                                <item row="4" column="1"><widget class="QPushButton" name="submitUpdateButton"><property name="text"><string>Submit Update</string></property></widget></item>
+                                            </layout>
+                                        </widget>
+                                    </widget>
+                                </item>
+                            </layout>
+                        </widget>
+
+                        <!-- === USER PAGE === -->
+                        <widget class="QWidget" name="pageUser">
+                            <layout class="QVBoxLayout">
+                                <item><widget class="QLabel"><property name="text"><string>Choose adoption file format (csv/html):</string></property></widget></item>
+                                <item><widget class="QLineEdit" name="formatEdit"/></item>
+                                <item><widget class="QPushButton" name="confirmFormatButton"><property name="text"><string>Confirm Format</string></property></widget></item>
+                                <item><widget class="QPushButton" name="seeOneByOneButton"><property name="text"><string>See dogs one by one</string></property></widget></item>
+                                <item><widget class="QPushButton" name="filterButton"><property name="text"><string>See dogs by breed and age</string></property></widget></item>
+                                <item><widget class="QPushButton" name="viewListButton"><property name="text"><string>See adoption list</string></property></widget></item>
+                                <item><widget class="QPushButton" name="openFileButton"><property name="text"><string>Open adoption file</string></property></widget></item>
+                                <item><widget class="QPushButton" name="logoutUserButton"><property name="text"><string>Log out</string></property></widget></item>
+                            </layout>
+                        </widget>
+
+                    </widget>
+                </item>
+            </layout>
+        </widget>
+    </widget>
+    <resources/>
+    <connections/>
+</ui>

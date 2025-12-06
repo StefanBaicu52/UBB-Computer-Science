@@ -1,0 +1,3 @@
+C:/Users/stefa/CLionProjects/dsa4/cmake-build-debug/CMakeFiles/dsa4.dir
+C:/Users/stefa/CLionProjects/dsa4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/stefa/CLionProjects/dsa4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

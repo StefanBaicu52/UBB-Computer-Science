@@ -1,0 +1,23 @@
+# ninja log v6
+2	69	7659862419787072	build.ninja	ebcf00f487ad6dd7
+673	771	1744176219776297915	untitled5	ebde642c23b95ee8
+56	2286	7659862557564984	CMakeFiles/untitled5.dir/main.cpp.obj	35f0de0e704ed186
+87	2394	7659862557885854	CMakeFiles/untitled5.dir/dynamic_vector/dynamic_array.cpp.obj	b2d516f71eecad0d
+236	2511	7659862559371069	CMakeFiles/untitled5.dir/validation/validation.cpp.obj	a81128d4f136d101
+139	2563	7659862558403412	CMakeFiles/untitled5.dir/service/service.cpp.obj	504a5bfa13158832
+116	2575	7659862558166902	CMakeFiles/untitled5.dir/repository/UserRepository.cpp.obj	db93803f4f5b26e6
+182	2580	7659862558824981	CMakeFiles/untitled5.dir/tests/tests.cpp.obj	2f57292b1eb5e6ea
+170	2640	7659862558709261	CMakeFiles/untitled5.dir/ui/ui.cpp.obj	ac296e67a502a7e9
+104	2654	7659862558051465	CMakeFiles/untitled5.dir/repository/AdminRepository.cpp.obj	457012ef0f19f1b3
+74	2662	7659862557745863	CMakeFiles/untitled5.dir/domain/dog.cpp.obj	85ac5d210e4f07a
+2662	3272	7659862583623982	untitled5.exe	1f6f70fd38ea4b47
+152	1666	7659874222640389	CMakeFiles/untitled5.dir/dynamic_vector/dynamic_array.cpp.obj	b2d516f71eecad0d
+137	1769	7659874222514895	CMakeFiles/untitled5.dir/main.cpp.obj	35f0de0e704ed186
+164	1923	7659874222770388	CMakeFiles/untitled5.dir/repository/AdminRepository.cpp.obj	457012ef0f19f1b3
+178	1963	7659874222900530	CMakeFiles/untitled5.dir/repository/UserRepository.cpp.obj	db93803f4f5b26e6
+192	1976	7659874223042432	CMakeFiles/untitled5.dir/service/service.cpp.obj	504a5bfa13158832
+215	2015	7659874223264208	CMakeFiles/untitled5.dir/ui/ui.cpp.obj	ac296e67a502a7e9
+229	2164	7659874223416413	CMakeFiles/untitled5.dir/tests/tests.cpp.obj	2f57292b1eb5e6ea
+2164	2824	7659874242760789	untitled5.exe	1f6f70fd38ea4b47
+19	1521	7659878800981613	CMakeFiles/untitled5.dir/ui/ui.cpp.obj	ac296e67a502a7e9
+1522	1828	7659878816008867	untitled5.exe	1f6f70fd38ea4b47

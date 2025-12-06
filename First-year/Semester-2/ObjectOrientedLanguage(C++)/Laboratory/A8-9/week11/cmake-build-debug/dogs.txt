@@ -1,0 +1,12 @@
+Azorel,Saint Bernard,3,azorel.jpg,0
+Patrocle,German Shepherd,2,patrocle.jpg,0
+Grivei,Labrador,1,grivei.jpg,0
+Zdreanta,Golden Retriever,4,zdreanta.jpg,0
+Bobita,Husky,5,bobita.jpg,0
+Pufi,Beagle,4,pufi.jpg,0
+Mircea,Teckel,6,mircea.jpg,0
+Ion,Spanish Cocker,6,ion.jpg,0
+Elvis,Dobermann,8,elvis.jpg,0
+Sebastian,Dalmatian,2,sebastian.jpg,0
+WW,WW,12,QA,0
+aa,aa,1,aa.jpg,0
